@@ -5,7 +5,7 @@ import "./App.css";
 import Proper from "./assets/compo/Proper";
 // import Prop from "./assets/compo/propp";
 function App() {
-  return (
+      return (
     <div className="App">
       <Proper name="Yash">
         <input type="button" value="click" />
